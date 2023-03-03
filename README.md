@@ -2,7 +2,7 @@
 OUTPUT:
 
 Demo Link: https://drinksmart.netlify.app
-![output](https://user-images.githubusercontent.com/112778628/212009315-7caa2e45-d909-4089-859c-95dad7ef28d2.png)
+![1](https://user-images.githubusercontent.com/105577116/222760228-64c49548-a0cc-47ee-8134-9a8bdc43e021.jpg)
 
 
 
